@@ -1,3 +1,6 @@
+/**
+ * @author Inchijeong
+ */
 package com.omp.dictionary.controller;
 
 import java.io.File;

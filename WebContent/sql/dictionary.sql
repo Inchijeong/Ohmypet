@@ -1,3 +1,4 @@
+-- author : 인치정
 create table t97_dictionary (
     dog_val number(6) not null,
     version number(6) default 0,

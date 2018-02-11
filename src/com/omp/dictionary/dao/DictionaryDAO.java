@@ -1,3 +1,6 @@
+/**
+ * @author Inchijeong
+ */
 package com.omp.dictionary.dao;
 
 import java.sql.Connection;

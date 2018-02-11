@@ -1,3 +1,4 @@
+-- author : 인치정
 create table t97_dog(
     dog_val number(6) primary key,
     detail varchar2(4000) not null,

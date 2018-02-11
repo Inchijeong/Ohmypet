@@ -1,3 +1,6 @@
+/**
+ * @author Inchijeong
+ */
 package com.omp.dictionary.domain;
 
 import java.util.Date;

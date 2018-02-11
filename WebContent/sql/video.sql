@@ -1,3 +1,4 @@
+-- author : 인치정
 create table t97_video (
 	no number,
 	title varchar2(100) not null,
